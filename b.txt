@@ -1,2 +1,5 @@
 root
 toor
+foo
+demo
+sqrt
